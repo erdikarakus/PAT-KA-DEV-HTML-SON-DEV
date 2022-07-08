@@ -1,0 +1,41 @@
+ul.a {
+    list-style-type: square;
+    color: rgb(161, 69, 11);
+}
+
+ol {
+    margin-left: 480px;
+}
+
+
+div.aa {
+    text-align: center;
+  }
+
+
+span{
+    color: black;
+}
+
+u {
+    color: black;
+}
+
+b {
+    color: rgb(161, 69, 11);
+}
+
+li.margin{
+    margin-left: 500px;
+}
+
+mark {
+    background-color:brown;
+    color: white;
+    margin-left: 500px;
+  }
+
+  p.last{
+    margin-left: 1000px;
+    font-size: 28px;
+  }
